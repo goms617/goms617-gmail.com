@@ -1,0 +1,5 @@
+{
+  "name": "TechCycle - 电子产品生命周期与成本追踪",
+  "description": "一个用于追踪个人电子产品购买记录、计算日均使用成本、分析使用寿命并提供AI智能建议的React应用。",
+  "requestFramePermissions": []
+}
